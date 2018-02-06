@@ -32,16 +32,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-<<<<<<< HEAD
-Monument Valley/.vs/Monument Valley/v15/Server/sqlite3/storage.ide
-Monument Valley/Library/assetDatabase3
-Monument Valley/Library/expandedItems
-Monument Valley/Library/CurrentLayout.dwlt
-Monument Valley/Library/InspectorExpandedItems.asset
-Monument Valley/Library/LastSceneManagerSetup.txt
-Monument Valley/Library/metadata/00/00000000000000003000000000000000
-Monument Valley/Library/metadata/00/00000000000000005100000000000000
-Monument Valley/Library/metadata/00/00000000000000008000000000000000
-Monument Valley/.vs/Monument Valley/v15/Server/sqlite3/storage.ide
-=======
->>>>>>> 3da55c06883249e56e0b3382288d9f2843a1981b
